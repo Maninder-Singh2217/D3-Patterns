@@ -1,0 +1,14 @@
+{
+  "name": "@co18332/logo",
+  "main": "7cf21f54d10988ab@843.js",
+  "version": "843.0.0",
+  "homepage": "https://observablehq.com/@co18332/logo",
+  "author": {
+    "name": "Maninder Singh",
+    "url": "https://observablehq.com/@co18332"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
